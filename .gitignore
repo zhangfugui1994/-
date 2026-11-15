@@ -1,0 +1,7 @@
+# 本地工具 / 编辑器
+.reasonix/
+.DS_Store
+
+# 日志
+*.log
+node_modules/
